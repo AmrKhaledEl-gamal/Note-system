@@ -42,10 +42,6 @@ project-root/
 
 Click the **"Export to Excel"** link in the sidebar to download all user data as an Excel sheet.
 
-## 📸 Screenshots
-
-*(Add screenshots here after uploading to GitHub or a CDN)*
-
 ## 🔧 Setup Instructions
 
 1. Clone or download the project.
